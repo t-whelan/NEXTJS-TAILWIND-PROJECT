@@ -6,7 +6,7 @@ const SectionThree = () => {
     <section className='py-12'>
 
         <div className='w-[80%] mx-auto flex flex-col lg:flex-row gap-6'>
-            <div className='p-2'>
+            <div className='p-7'>
                 <h2 className='font-oswald text-4xl mb-4 text-[#A59678]'>It doesn&apos;t have to be so hard</h2>
                 <p className='font-moon text-lg mb-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium, ipsa sapiente dicta quia et voluptatem aut harum veritatis numquam nisi soluta minima quasi! Quam voluptatibus recusandae fuga, aliquam eaque ipsa.</p>
                 <div>
